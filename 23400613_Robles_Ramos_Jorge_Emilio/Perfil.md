@@ -29,5 +29,5 @@
 <h1>V Cómo contactarme</h1>
 <h3>
   Teléfono: 3112825231<br />
-  Correo: joemroblesra@ittepic.edu.mx
+  Correo: <a href="mailto:joemroblesra@ittepic.edu.mx">joemroblesra@ittepic.edu.mx</a>
 </h3>
